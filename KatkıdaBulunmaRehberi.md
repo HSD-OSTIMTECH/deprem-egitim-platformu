@@ -2,6 +2,9 @@
 
 Bu proje topluma fayda sağlama amacıyla açık kaynak olarak geliştirilmektedir. Katkıda bulunmak isteyen herkesin desteğine açığız. Aşağıda katkı süreci detaylı şekilde anlatılmıştır.
 
+🔗 [Ana Sayfaya Git](./README.md)
+🔗 [MVP Özelliklerini Görüntüle](./MVP.md)
+
 ---
 
 ## 🔧 Projeyi Çalıştırma
@@ -9,8 +12,8 @@ Bu proje topluma fayda sağlama amacıyla açık kaynak olarak geliştirilmekted
 1. Bu repoyu forklayın:
 
    ```bash
-   https://github.com/HSD-OSTIMTECH/deprem-egitim-platformu/tree/main
-   cd deprem-egitim-platformu
+   git clone https://github.com/kullaniciadi/deprem-bilinci.git
+   cd deprem-bilinci
    ```
 
 2. Bağımlılıkları yükleyin:
@@ -52,3 +55,4 @@ Bu proje topluma fayda sağlama amacıyla açık kaynak olarak geliştirilmekted
 Her türlü öneri, hata bildirimi ve katkı isteği için GitHub issues sekmesini kullanabilir veya sosyal medya kanallarımızdan bizimle iletişime geçebilirsiniz.
 
 > Unutmayın: Bu proje hepimizin! 💪
+
