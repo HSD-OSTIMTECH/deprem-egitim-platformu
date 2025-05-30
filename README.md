@@ -3,6 +3,10 @@
 Türkiye’deki öğrenci, öğretmen, ebeveyn ve çocuklara yönelik hazırlanan **görsel ağırlıklı deprem eğitim platformu**.
 Amacımız, afetlere karşı bilinç düzeyini artırmak, testlerle öğrenmeyi pekiştirmek ve başarılı katılımcılara dijital sertifikalar sunmaktır.
 
+🔗 [Katkıda Bulunma Rehberini Görüntüle](./KatkıdaBulunmaRehberi.md)
+🔗 [MVP Özelliklerini Görüntüle](./MVP.md)
+
+
 ---
 
 ## 📌 Proje Hakkında
