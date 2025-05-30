@@ -2,6 +2,9 @@
 
 Bu dosya, "Deprem Bilinci" eğitim platformunun Minimum Viable Product (MVP) aşamasındaki temel fonksiyonlarını listeler. Amaç, erken aşamada işlevsel bir sistem sunarak kullanıcıdan geri bildirim toplamaktır.
 
+🔗 [Ana Sayfaya Git](./README.md)
+🔗 [Katkıda Bulunma Rehberini Görüntüle](./KatkıdaBulunmaRehberi.md)
+
 ---
 
 ## 🎯 Hedef Kitle
