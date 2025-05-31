@@ -35,27 +35,7 @@ Her kullanıcı grubuna özel **görsel destekli eğitimler**, **etkileşimli te
 
 ---
 
-## *📁 Dosya Yapısı (Planlanan)*
-
-```plaintext
-deprem-bilinci/
-├── assets/                # Görseller, ikonlar
-├── components/            # Vue bileşenleri
-├── layouts/               # Sayfa düzenleri
-├── pages/                 # Route bazlı Nuxt.js sayfaları
-│   ├── ogrenciler.vue
-│   ├── ogretmenler.vue
-│   ├── ebeveynler.vue
-│   └── cocuklar.vue
-├── plugins/              # Firebase entegrasyonu vb.
-├── store/                # Vuex store (opsiyonel)
-├── static/               # Statik dosyalar (manifest, favicon)
-├── utils/                # Test kontrolü, sertifika üretici
-├── .gitignore
-├── nuxt.config.ts
-├── package.json
-└── README.md
-```
+  ## *📁 Dosya Yapısı (Planlanıyor)*
 
 ---
 
