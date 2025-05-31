@@ -26,7 +26,7 @@ Her kullanıcı grubuna özel **görsel destekli eğitimler**, **etkileşimli te
 
 | *Katman*           | *Teknoloji*               |
 | ------------------ | ------------------------- |
-| *Framework*        | *Nuxt.js (Vue 3 tabanlı)* |
+| *Framework*        | *Next.js (React Tabanlı)* |
 | *Backend*          | *Firebase Functions*      |
 | *Hosting*          | *Vercel*        |
 | *Veritabanı*       | *Firebase Firestore*      |
